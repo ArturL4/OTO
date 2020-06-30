@@ -31,6 +31,7 @@ With this pool of different Learning Rates the same amount of Models were traine
 
 
 ## Results <a name="results"></a>
+Comparing the different methods we can say that we got a better accuracy with OTO. But not only better results with the Validation we also were able to reduce overfitting which is probably because the Network is validated every two epochs and the Learning Rate can be corrected in time.
 
 
 ## Licensing, Authors, Ackowlegements <a name="licensing"></a>
