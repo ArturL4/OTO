@@ -15,11 +15,12 @@ Furthermore you need to install the PyTorch Framework as described [here](https:
 ## Project Motivation <a name="motivation"></a>
 
 Training a Neural Network with static Hyperparameter Configurations can be very time consuming and might don't even result in good accuracies.<br>
-The idea behind OTO is to actually give the Network itself the oppurtinity to decide whether to change the Hyperparameters.<br>
+The idea behind OTO is to actually give the Network itself the oppurtinity to decide when to change the Hyperparameters.<br>
 We believe that giving the Network a variety of Hyperparameters while training it is possible to reduce the error and enhance the training time.
 
 ## File Description <a name="files"></a>
 
+To get a benchmark we decided to build a very simple CNN Architecture and the Dataset we were using is the already preprocessed CIFAR10 coming together with the PyTorch Framework
 
 ## Results <a name="results"></a>
 
