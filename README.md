@@ -5,7 +5,6 @@
 2. [Project Motivation](#motivation)
 3. [Description](#description)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowlegements](#licensing)
 
 ## Installation <a name= "installation"></a>
 To use OTO the standard libraries given with the Anaconda Distribution.<br>
@@ -33,5 +32,3 @@ With this pool of different Learning Rates the same amount of Models were traine
 ## Results <a name="results"></a>
 Comparing the different methods we can say that we got a better accuracy with OTO. But not only better results with the Validation we also were able to reduce overfitting which is probably because the Network is validated every two epochs and the Learning Rate can be corrected in time.
 
-
-## Licensing, Authors, Ackowlegements <a name="licensing"></a>
